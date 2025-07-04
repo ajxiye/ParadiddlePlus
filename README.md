@@ -1,28 +1,33 @@
-# ParadiddlePlus
-Paradiddle but with a PLUS.
+# ParadiddlePlus  
+Paradiddle, but with a **PLUS**.  
 ![PD+ Logo](https://github.com/user-attachments/assets/1244a2df-966d-4f7b-bcae-89548ffe0364)
-### **Paradiddle +** comes with the following:
-- Songs from famous bands (Green Day, Metallica ect)
+
+### **Paradiddle+** includes the following features:
+- Songs from famous bands (Green Day, Metallica, etc.)
 - More drum presets
-- Famous pro drum presets
-- **Drumless** songs to play along with
-- Song recordings to famous songs
-- Famous song sheet music
+- Presets inspired by pro drummers
+- **Drumless** tracks to play along with
+- Audio recordings of popular songs
+- Sheet music for well-known tracks  
 And MUCH MORE!
 
-Please note Paradiddle + ***IS NOT*** official, it is only an extras pack with drum layouts created by **ajaiye**
-Paradiddle + works on **Quest AND PC/Steam.**
+> **Please note:** Paradiddle+ ***is not official***. It’s an extra content pack with custom drum layouts made by **ajaiye**.  
+> Paradiddle+ is compatible with **both Quest and PC/Steam**.
+
+---
 
 ## INSTRUCTIONS
 
 ### **Quest**
-- Plug in quest to computer
-- When the 'enable usb' popup shows up in your quest, click on it to allow access to files on the computer
-- Download Paradiddle +
-- Inside your quests root directory, there should be a folder called 'Paradiddle'
-- Extract 'ParadiddlePlus-main.zip' to your desktop, or anywhere you want it.
-- Drag all the contents from your newly extracted .zip file into the previously located 'Paradiddle' folder.
-- Well done! The next time you open Paradiddle, everything should be installed!
-- To find the custom drum layouts, go to settings > file > load drum layout
+1. Connect your Quest headset to your computer.
+2. When prompted in the headset, allow USB file access.
+3. Download the Paradiddle+ zip file.
+4. In your Quest’s root directory, locate the folder named `Paradiddle`.
+5. Extract `ParadiddlePlus-main.zip` anywhere on your computer (e.g., Desktop).
+6. Drag **all contents** from the extracted folder into the `Paradiddle` folder on your Quest.
+7. That’s it! Launch Paradiddle, and everything should be ready to go.
+8. To access custom drum layouts:  
+   `Settings > File > Load Drum Layout`
 
 ### **PC/Steam**
+*(Instructions for PC/Steam coming soon...)*
