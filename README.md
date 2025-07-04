@@ -1,6 +1,6 @@
 # ParadiddlePlus
 Paradiddle but with a PLUS.
-![PD+ Logo](https://github.com/user-attachments/assets/cee724fe-d255-42af-bb55-6f9fdc0f1751)
+![PD+ Logo](https://github.com/user-attachments/assets/1244a2df-966d-4f7b-bcae-89548ffe0364)
 Paradiddle + comes with the following:
 - Songs from famous bands (Green Day, Metallica ect)
 - More drum presets
