@@ -15,7 +15,6 @@ Paradiddle, but with a <strong>PLUS</strong>.
   <li><strong>Drumless</strong> tracks to play along with</li>
   <li>Audio recordings of popular songs</li>
   <li>Sheet music for well-known tracks</li>
-  <li>And MUCH MORE!</li>
 </ul>
 
 <blockquote style="font-family: 'Futura PT Book', Arial, sans-serif;">
