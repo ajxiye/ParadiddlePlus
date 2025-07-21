@@ -25,7 +25,7 @@ And MUCH MORE!
 3. Download the Paradiddle+ zip file from [here](https://drive.google.com/drive/folders/1npFrpSFSxEphjDxDJiFV56PyOlZuTgZ3?usp=sharing), or from [releases](https://github.com/ajxiye/ParadiddlePlus/releases/download/v0.1/paradiddleplus-v0.1-beta.zip).
 5. In your Quest’s root directory, locate the folder named `Paradiddle`.
 6. Extract the downloaded .zip file anywhere on your computer (e.g., Desktop).
-7. Drag **all contents** from the extracted folder into the `Paradiddle` folder on your Quest.
+7. Drag **all contents** from the extracted folder (inside the extracted file) into the `Paradiddle` folder on your Quest.
 8. That’s it! Launch Paradiddle, and everything should be ready to go.
 9. To access custom drum layouts:  
    `Settings > File > Load Drum Layout`
