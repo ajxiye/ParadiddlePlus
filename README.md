@@ -22,7 +22,7 @@ And MUCH MORE!
 ### **Quest**
 1. Connect your Quest headset to your computer.
 2. When prompted in the headset, allow USB file access.
-3. Download the Paradiddle+ zip file from [here](https://drive.google.com/drive/folders/1npFrpSFSxEphjDxDJiFV56PyOlZuTgZ3?usp=sharing), or from [releases](https://github.com/ajxiye/ParadiddlePlus/releases/download/v0.1/paradiddleplus-v0.1-beta.zip).
+3. Download the Paradiddle+ zip file from [here](https://drive.google.com/drive/folders/1npFrpSFSxEphjDxDJiFV56PyOlZuTgZ3?usp=sharing), or from [releases](https://github.com/ajxiye/ParadiddlePlus/releases/download/v0.11/paradiddleplus-v0.11-beta.zip).
 5. In your Quest’s root directory, locate the folder named `Paradiddle`.
 6. Extract the downloaded .zip file anywhere on your computer (e.g., Desktop).
 7. Drag **all contents** from the extracted folder (inside the extracted file) into the `Paradiddle` folder on your Quest.
